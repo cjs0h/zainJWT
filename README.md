@@ -17,7 +17,7 @@ A php class For Using ZainCash API
 	    // for live
 	    $obj->sendData($MERCHANT_ID,$Api_NUMBER,live);
 	    // for testing 
-	    $obj->sendData($MERCHANT_ID,$Api_NUMBER,live);
+	    $obj->sendData($MERCHANT_ID,$Api_NUMBER,test);
 	    $obj->sendData($MERCHANT_ID,$Api_NUMBER);
 ```
 
